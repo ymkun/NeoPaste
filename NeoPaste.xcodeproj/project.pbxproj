@@ -425,11 +425,11 @@
 				COMBINE_HIDPI_IMAGES = YES;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_ASSET_PATHS = "\"NeoPaste/Preview Content\"";
-				DEVELOPMENT_TEAM = FF68N39FU5;
+				DEVELOPMENT_TEAM = FA4KXZ2S5U;
 				ENABLE_HARDENED_RUNTIME = YES;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = NO;
-				INFOPLIST_FILE = "/Users/ario/Downloads/app of paster/pasterapp/NeoPaste/Info.plist";
+				INFOPLIST_FILE = NeoPaste/Info.plist;
 				INFOPLIST_KEY_CFBundleDisplayName = NeoPaste;
 				INFOPLIST_KEY_LSApplicationCategoryType = "public.app-category.utilities";
 				INFOPLIST_KEY_NSHumanReadableCopyright = "";
@@ -459,11 +459,11 @@
 				COMBINE_HIDPI_IMAGES = YES;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_ASSET_PATHS = "\"NeoPaste/Preview Content\"";
-				DEVELOPMENT_TEAM = FF68N39FU5;
+				DEVELOPMENT_TEAM = FA4KXZ2S5U;
 				ENABLE_HARDENED_RUNTIME = YES;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = NO;
-				INFOPLIST_FILE = "/Users/ario/Downloads/app of paster/pasterapp/NeoPaste/Info.plist";
+				INFOPLIST_FILE = NeoPaste/Info.plist;
 				INFOPLIST_KEY_CFBundleDisplayName = NeoPaste;
 				INFOPLIST_KEY_LSApplicationCategoryType = "public.app-category.utilities";
 				INFOPLIST_KEY_NSHumanReadableCopyright = "";

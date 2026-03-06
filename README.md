@@ -52,6 +52,8 @@ Get ready for the next evolution of clipboard magic! 🪄✨
 - 📥 **Auto-Update**: Seamless updates from GitHub releases.
 - 🐛 **Clipboard Bug Fix**: Resolved issue with clipboard not capturing new content.
 - 🆕 **Enhanced UI/UX**: More intuitive and user-friendly interface.
+- 🔔 **Enhanced Save Notifications**: Notifications now display the saved file name and path, making it easy to know exactly where your file was saved.
+- 📂 **Click-to-Reveal in Finder**: Click on the save notification to instantly reveal and highlight the saved file in Finder.
 
 
 
