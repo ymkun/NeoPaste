@@ -72,11 +72,11 @@ class MenuBarManager: NSObject, ObservableObject {
     // MARK: - Initialization
     private override init() {
         super.init()
+        setupStatusItem()
+        setupObservers()
+        updateMenu()
         Task {
             await setupNotifications()
-            setupStatusItem()
-            setupObservers()
-            updateMenu()
         }
     }
     // MARK: - Setup Methods
